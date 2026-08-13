@@ -1,0 +1,1 @@
+Open dashboard.pbix in Power BI Desktop, take a full-page screenshot, save as overview.png in this folder.
