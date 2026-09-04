@@ -1,6 +1,6 @@
 # Retail Profitability Dashboard (Power BI)
 
-![Dashboard overview](screenshots/overview.png)
+![Dashboard overview](figures/overview.png)
 
 Which product sub-categories, regions and customer segments are missing their gross-margin and operating-margin targets?
 
@@ -29,13 +29,14 @@ Course-provided retail transaction dataset with order date, city and region (ACT
 
 ## Reproduce
 
-Not reproducible from this repository. Open screenshots/overview.png to inspect the page; the .pbix can be shown on request.
+Not reproducible from this repository. Open figures/overview.png to inspect the page; the .pbix can be shown on request.
 
 ## Repo contents
 
 ```
 retail-profitability-dashboard-powerbi/
 ├── README.md
-└── screenshots/
+├── .gitignore
+└── figures/
     └── overview.png
 ```

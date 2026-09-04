@@ -1,0 +1,18 @@
+# course data and working files must never be committed
+*.csv
+*.xlsx
+*.xls
+*.pbix
+*.twb
+*.twbx
+*.hyper
+*.pptx
+# office lock/temp files
+~$*
+*.tmp
+# OS and editor junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
